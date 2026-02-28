@@ -1,7 +1,8 @@
 ## ➡ Assignment Model 
 ### 👉Model TO Predict Based On the Features whether Employee Leave The Company Or Not
 
-## ➡ Features Description 👇 
+# ➡ Features Description 👇 
+### ⚔ Dataset consists of 1351 Features and 15 columns
 ### Job_Satisfaction :  Level of satisfaction with the job
 ### Performance_Rating : Employee performance score
 ### Years_At_Company : Number of years worked in company
